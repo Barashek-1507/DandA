@@ -1,7 +1,9 @@
 package Homework3.Template_method;
 
-public class NewPage {
-    public void showPage(){
-         
+public class NewsPage extends WebsiteTemplate {
+
+    @Override
+    public void showPageContent() {
+        System.out.println("News");
     }
 }

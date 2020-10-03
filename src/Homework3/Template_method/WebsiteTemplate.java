@@ -1,4 +1,12 @@
 package Homework3.Template_method;
 
-public class WebsiteTempate {
+public abstract class WebsiteTemplate {
+    public void showPage(){
+        System.out.println("Header");
+        showPageContent();
+        System.out.println("Footer");
+    }
+
+    public abstract void showPageContent();
+
 }

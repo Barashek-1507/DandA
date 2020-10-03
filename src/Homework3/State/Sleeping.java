@@ -1,4 +1,8 @@
 package Homework3.State;
 
-public class Sleeping {
+public class Sleeping implements Activity {
+    @Override
+    public void justDoIt() {
+        System.out.println("Sleeping...");
+    }
 }
