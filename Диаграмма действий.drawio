@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-11-02T13:53:34.808Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15" etag="-NeIju8Y-eEu5QGU2-61" version="13.8.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-06T17:58:25.437Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15" etag="Yo8QAU98JXkZDp85KT99" version="13.8.4" type="github">
   <diagram id="dMZ0kmUw3PBsIGC8fK4_" name="Страница 1">
-    <mxGraphModel dx="1398" dy="696" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1282" dy="590" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -102,7 +102,7 @@
           <mxGeometry x="895" y="435" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kbv3keUjFInM8lNe4cfh-50" value="Устная консультация&lt;br&gt;не помогла" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="960" y="730" width="140" height="30" as="geometry" />
+          <mxGeometry x="980" y="675" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kbv3keUjFInM8lNe4cfh-51" value="" style="ellipse;fillColor=#000000;strokeColor=none;rounded=0;sketch=0;" vertex="1" parent="1">
           <mxGeometry x="70" y="645" width="30" height="30" as="geometry" />
