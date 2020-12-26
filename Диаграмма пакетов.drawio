@@ -1,1 +1,43 @@
-<mxfile host="app.diagrams.net" modified="2020-12-26T05:08:47.813Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Safari/605.1.15" version="14.1.2" etag="f7lSEOxm3sbcAl9QMp59" type="github"><diagram id="0Fq4zsbDEmFZSVg_08IL">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-12-26T05:12:58.154Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Safari/605.1.15" etag="tEUPUpoA_o33f44eSeCh" version="14.1.2" type="github">
+  <diagram id="0Fq4zsbDEmFZSVg_08IL" name="Страница 1">
+    <mxGraphModel dx="1186" dy="645" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ZD3doINDtlzSTDE2Sfd_-1" value="Абонент" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="190" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ZD3doINDtlzSTDE2Sfd_-7" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="320" y="300" width="320" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="ZD3doINDtlzSTDE2Sfd_-2" value="Оборудование" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;" vertex="1" parent="ZD3doINDtlzSTDE2Sfd_-7">
+          <mxGeometry width="320" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="ZD3doINDtlzSTDE2Sfd_-3" value="Тип оборудования" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;" vertex="1" parent="ZD3doINDtlzSTDE2Sfd_-7">
+          <mxGeometry x="20" y="100" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZD3doINDtlzSTDE2Sfd_-10" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="320" y="130" width="320" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="ZD3doINDtlzSTDE2Sfd_-4" value="Сотрудник" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;" vertex="1" parent="ZD3doINDtlzSTDE2Sfd_-10">
+          <mxGeometry width="320" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="ZD3doINDtlzSTDE2Sfd_-8" value="Руководитель" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;" vertex="1" parent="ZD3doINDtlzSTDE2Sfd_-10">
+          <mxGeometry x="170" y="90" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ZD3doINDtlzSTDE2Sfd_-9" value="Оператор" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;" vertex="1" parent="ZD3doINDtlzSTDE2Sfd_-10">
+          <mxGeometry x="10" y="90" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ZD3doINDtlzSTDE2Sfd_-11" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="40" y="310" width="220" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="ZD3doINDtlzSTDE2Sfd_-5" value="Обращение" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;" vertex="1" parent="ZD3doINDtlzSTDE2Sfd_-11">
+          <mxGeometry width="220" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="ZD3doINDtlzSTDE2Sfd_-6" value="Заявка" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;" vertex="1" parent="ZD3doINDtlzSTDE2Sfd_-11">
+          <mxGeometry x="15" y="100" width="150" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
